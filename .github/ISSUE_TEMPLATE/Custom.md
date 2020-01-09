@@ -8,7 +8,7 @@ about: Template for asking a great question
 
 Write your response here (required).
 
-### Include a live demo link so that I can run your code. <!--This should be a link to a Plunker or Glitch project-->
+### Include a link to your code so I can run it on my computer. <!--For Practical JavaScript, just paste the contents of your todoList.html to gist.github.com and share the link. -->
 
 Write your response here (required).
 
